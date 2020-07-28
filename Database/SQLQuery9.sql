@@ -1,0 +1,1 @@
+select * from bireysel_uye

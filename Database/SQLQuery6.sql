@@ -1,0 +1,2 @@
+/*insert into uye_bireyesel (TC_no,ad,soyad,sifre,eposta,gizli_soru,cevap,lisans_no,telefon,dogum_tarihi,sehir,ulke,adres) values('3333333', 'ahmet', 'cakir', '123', 'talha@', 'ilk okul hocanýz?', 'aaa', '12345', '555555555', '11.11.1988', 'karabuk', 'turkey', 'merkez')*/
+select * from uye_bireyesel
